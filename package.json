@@ -3,9 +3,8 @@
   "version": "0.7.5",
   "homepage": "https://bulma.io",
   "author": {
-    "name": "Jeremy Thomas",
-    "email": "bbxdesign@gmail.com",
-    "url": "https://jgthms.com"
+    "name": "Jones-S",
+    "url": "https://github.com/Jones-S/bulma"
   },
   "description": "Modern CSS framework based on Flexbox",
   "main": "bulma.sass",
